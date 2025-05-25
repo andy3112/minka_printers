@@ -1,0 +1,48 @@
+{
+    "name": "Minka S-Pro",
+    "version": 2,
+    "inherits": "minka_base",
+    "metadata": {
+        "quality_definition": "minka_base",
+        "visible": true,
+        "has_machine_materials": true,
+        "platform": "Minka_S_PRO.stl",
+        "platform_offset": [
+            -169,
+            -63,
+            165
+        ]
+    },
+    "overrides": {
+        "coasting_enable": { "value": false },
+        "retraction_amount": { "value": 1 },
+        "retraction_speed": { "value": 35 },
+        "retraction_extrusion_window": { "value": 1 },
+        "retract_at_layer_change": { "value": true },
+        "support_enable": { "value": false },
+        "support_structure": { "value": "'normal'" },
+        "support_type": { "value": "'buildplate'" },
+        "support_angle": { "value": 45 },
+        "support_infill_rate": { "value": 15 },
+        "infill_overlap": { "value": 15.0 },
+        "skin_overlap": { "value": 20.0 },
+        "fill_outline_gaps": { "value": true },
+        "filter_out_tiny_gaps": { "value": true },
+        "roofing_layer_count": { "value": 2 },
+        "xy_offset_layer_0": { "value": -0.1 },
+        "speed_print": { "value": 50 },
+        "machine_name": { "default_value": "Minka S-Pro" },
+        "machine_width": { "value": 220 },
+        "machine_depth": { "value": 220 },
+        "machine_height": { "value": 230 },
+        "machine_head_with_fans_polygon": { "default_value": [
+                [-32.35,35.6],
+                [43.52,35.6],
+                [43.52,-68.92],
+                [-32.35,-68.92]
+            ] 
+        },
+
+        "gantry_height": { "value": 23 }
+    }
+}
