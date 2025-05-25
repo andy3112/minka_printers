@@ -19,7 +19,7 @@ Este repositorio contiene los archivos de configuración necesarios para agregar
 
 ## 📂 Contenido del Repositorio
 
-- `/CURA` – Archivos de configuración para CURA  
+- `/Cura Files` – Archivos de configuración para CURA  
 - `/STL` – Piezas imprimibles en formato `.stl`  
 - `/Firmware` – Configuraciones recomendadas de Marlin 2
 - `/Docs` – Instrucciones adicionales, esquemas o enlaces útiles  
@@ -28,7 +28,6 @@ Este repositorio contiene los archivos de configuración necesarios para agregar
 
 ## 🎥 Videos de Configuración
 
-> *(Agrega aquí los enlaces a tus videos de configuración en YouTube o cualquier otra plataforma)*
 
 
 ---
