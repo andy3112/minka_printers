@@ -28,7 +28,8 @@ Este repositorio contiene los archivos de configuración necesarios para agregar
 
 ## 🎥 Videos de Configuración
 
-
+Cómo Agregar una Impresora Personalizada en Ultimaker Cura
+https://youtu.be/UraJ_Z5v-HU
 
 ---
 
